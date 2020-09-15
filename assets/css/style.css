@@ -40,6 +40,52 @@ a {
     text-decoration: none;
 }
 
+/* Content section attributes */
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+/* Content div attributes */
+.search-engine-optimization,
+.online-reputation-management, 
+.social-media-marketing  {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* Content image Attributes */
+.search-engine-optimization img,
+.online-reputation-management img,
+.social-media-marketing img  {
+    max-height: 200px;
+}
+
+/* Content image Floats */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/* Content h2 attributes */
+.search-engine-optimization h2,
+.online-reputation-management h2,
+.social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+
 /* Paragraph attributes */
 p {
     font-size: 16px;
@@ -90,51 +136,6 @@ p {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-/* Content section attributes */
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-
-/* Content div attributes */
-.search-engine-optimization,
-.online-reputation-management, 
-.social-media-marketing  {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/* Content image Attributes */
-.search-engine-optimization img,
-.online-reputation-management img,
-.social-media-marketing img  {
-    max-height: 200px;
-}
-
-/* Content image Floats */
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
-/* Content h2 attributes */
-.search-engine-optimization h2,
-.online-reputation-management h2,
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 /* Page Footer attributes */

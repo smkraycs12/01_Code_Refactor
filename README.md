@@ -1,1 +1,3 @@
 # 01_Code_Refactor
+
+The purpose of this project was to go through the code that was provided and make the code easier to navigate and understand for future modificatiomn.  I confirmed that all links were functioning correctly fixed any that were not properly functioning. Then I went over the CSS to make it more efficient by consolidating CSS selectors and properties that matched. After that I organizing them to follow the semantic structure of the HTML elements, and included comments before each element or section of the page to make it easier to identify which CSS sections were connected to the HTML sections.
